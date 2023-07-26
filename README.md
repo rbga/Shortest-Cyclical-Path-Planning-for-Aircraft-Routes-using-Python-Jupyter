@@ -2,7 +2,7 @@
 
 This project focuses on analyzing aircraft networks using Python and various libraries like Pandas, Openpyxl, Numpy, and Matplotlib. The project aims to extract data from an Excel file, build an adjacency list representation of aircraft networks, perform Depth First Search (DFS) on the networks, and visualize the results.
 
-**Note: The original Jupyter Notebook containing the code and detailed results is not available in this repository as it was deleted before uploading to Git. However, you can view the PDF file in the repository to get an overview of the code and some results.**
+**Note: The original Jupyter Notebook containing the code and detailed results is not available in this repository as it was deleted before uploading to Git. However, you can view the PDF file in the repository to get an overview of the code and results.**
 
 ## Table of Contents
 - [Introduction](#introduction)
