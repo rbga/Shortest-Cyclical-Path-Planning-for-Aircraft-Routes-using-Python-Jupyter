@@ -1,4 +1,5 @@
 # Aircraft Network Analysis with Python
+<img src="https://github.com/rbga/Shortest-Cyclical-Path-Planning-for-Aircraft-Routes-using-Python-Jupyter/assets/75168756/7508b238-e741-4837-b7ff-a5c9be53be82" alt="Image Alt Text" width="500" height="350">
 
 This project focuses on analyzing aircraft networks using Python and various libraries like Pandas, Openpyxl, Numpy, and Matplotlib. The project aims to extract data from an Excel file, build an adjacency list representation of aircraft networks, perform Depth First Search (DFS) on the networks, and visualize the results.
 
